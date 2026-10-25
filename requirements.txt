@@ -1,4 +1,4 @@
-certifi==2026.4.22 --hash=sha256:3cb2210c8f88ba2318d29b0388d1023c8492ff72ecdde4ebdaddbb13a31b1c4a
+certifi==2026.10.19 --hash=sha256:035c1e85572b141bf1c3a3eff0e33a8eb74917522f2559075ff8d2fea780a1ae --hash=sha256:42d35340cc5b9ba78e818ddbff0c5b1c2b779de448a340fd1b989f5fa8670e1b
 # charset-normalizer publishes platform-specific wheels. Keep hashes for both
 # Alpine x86_64 local builds and Alpine aarch64 GitHub runners.
 charset-normalizer==3.4.7 --hash=sha256:ae196f021b5e7c78e918242d217db021ed2a6ace2bc6ae94c0fc596221c7f58d --hash=sha256:e060d01aec0a910bdccb8be71faf34e7799ce36950f8294c8bf612cba65a2c9e
